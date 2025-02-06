@@ -1,4 +1,4 @@
-### Hi there my No.![visitor count](https://profile-counter.glitch.me/miracle-techlink/count.svg) visitor.
+### Hi there my No.![visitor count](https://profile-counter.glitch.me/tj-messi/count.svg) visitor.
 
 
 **tj-messi/tj-messi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
