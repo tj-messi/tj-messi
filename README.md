@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **dignosing with visual and language model**
+- 🔭 I’m currently working on **Medical Vision language model**
 - 🌱 I’m currently learning **MLLM,ViT and digital twins**
 - 👯 I’m looking to collaborate on Medlab,heathlab and hospitals.
 - 🤔 I’m looking for help on how to train a big model.
