@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   
                         'email':2715978522@qq.com
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tj-messiX&theme=xcode&hide_border=true" alt="Activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tj-messi&theme=xcode&hide_border=true" alt="Activity graph">
   
 - 😄 Pronouns: link tech,link people,link dream.
 - ⚡ Fun fact: I am going to start up a company during school time,just like Elon musk and Bill Gates.
